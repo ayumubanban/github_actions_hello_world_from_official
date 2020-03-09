@@ -1,1 +1,1 @@
-https://github.com/ayumubanban/github_actions_hello_world_from_official/workflows/Greeting/badge.svg
+![](https://github.com/ayumubanban/github_actions_hello_world_from_official/workflows/Greeting/badge.svg)
